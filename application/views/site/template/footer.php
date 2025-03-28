@@ -1,0 +1,1 @@
+// view/site/template/footer.php
