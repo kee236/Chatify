@@ -1,0 +1,14 @@
+<?php include('header.php'); ?>
+<?php include('slider.php'); ?>
+<?php include('client.php'); ?>
+<?php include('chat.php'); ?>
+<?php include('ideas.php'); ?>
+<?php include('solution.php'); ?>
+<?php include('intelligent.php'); ?>
+<?php include('peoplesay.php'); ?>
+<?php include('portfolio.php'); ?>
+<?php include('pricing.php'); ?>
+<?php include('blog.php'); ?>
+<?php include('popup.php'); ?>
+<?php include('totoup.php'); ?>
+<?php include('footer.php'); ?>
