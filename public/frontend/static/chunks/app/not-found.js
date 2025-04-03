@@ -1,0 +1,1 @@
+//frontend/static/chunks/app/not-found.js
