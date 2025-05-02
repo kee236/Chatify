@@ -1,0 +1,10 @@
+/* assets/css/input.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom base styles */
+body {
+  @apply font-prompt;
+}
